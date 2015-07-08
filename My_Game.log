@@ -1,0 +1,1080 @@
+	Babylon.js Exporter version: 1.8.0, Blender version: 2.73 (sub 6)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  My_Game.Material
+	processing begun of material:  My_Game.Material.001
+	Diffuse texture found
+Error encountered processing image file:  /home/logans/Desktop/Codename:_Mooshroom/gold-textures-2590x1940-wallpaper-1620494.jpg, Error:  '/home/logans/Desktop/Codename:_Mooshroom/gold-textures-2590x1940-wallpaper-1620494.jpg' and '/home/logans/Desktop/Codename:_Mooshroom/gold-textures-2590x1940-wallpaper-1620494.jpg' are the same file
+	processing begun of material:  My_Game.Material.002
+	Diffuse texture found
+Error encountered processing image file:  /home/logans/Desktop/Codename:_Mooshroom/space-background1.png, Error:  '/home/logans/Desktop/Codename:_Mooshroom/space-background1.png' and '/home/logans/Desktop/Codename:_Mooshroom/space-background1.png' are the same file
+	processing begun of material:  My_Game.Material.003
+	processing begun of mesh:  Trigger.End
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Barrier.Low
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Barrier.High
+		num positions      :  8
+		num normals        :  8
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.168
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.167
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.166
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.165
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.164
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.163
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.162
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.161
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.160
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.159
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.158
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.157
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.156
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.155
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.154
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.153
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.152
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.151
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.150
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.149
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.148
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.147
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.146
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.145
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.144
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.143
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.142
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.141
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.140
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.139
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.138
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.137
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.136
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.135
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.130
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.128
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.127
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.126
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.125
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.124
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.123
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.122
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.121
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.120
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.119
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.118
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.117
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.116
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.115
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.114
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.113
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.112
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.111
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.109
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.108
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.107
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.106
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.105
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.104
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.103
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.102
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.099
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.096
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.095
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.094
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.093
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.092
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.091
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.090
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.089
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.087
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.085
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.082
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.081
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.080
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.079
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.077
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.076
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.074
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.073
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.072
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.071
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.070
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.069
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.068
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.066
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.065
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.064
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.063
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.062
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.061
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.060
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.059
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.058
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.057
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.056
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.055
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.053
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.052
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.051
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.050
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.049
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.048
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.047
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.046
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.045
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.044
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.043
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.042
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.041
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.040
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.039
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.038
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.037
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.036
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.035
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.034
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.033
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.032
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.031
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.030
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.029
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.028
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.027
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.026
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.025
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.024
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.023
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.022
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.021
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.020
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.019
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.018
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.017
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.015
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.014
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.013
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.012
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.010
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.009
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.008
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.007
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.005
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.004
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.003
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.002
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Plane
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of camera (FreeCamera):  Camera.Main
+	processing begun of mesh:  Mooshroom
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of mesh:  Cube.000
+		num positions      :  2009
+		num normals        :  2009
+		num uvs            :  4018
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2304
+	processing begun of light (HEMI):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
